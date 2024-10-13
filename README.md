@@ -5,5 +5,5 @@ Dataset contains details of customers who buys clothes online. The store offers 
 **# Goal of Analysis**
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website.
 
-**Approach**
-**Therefore we be using Multi-Linear Regression Model to fit our customer data and gain target insight from data**
+**#Approach**
+Therefore we be using Multi-Linear Regression Model to fit our customer data and gain target insight from data
